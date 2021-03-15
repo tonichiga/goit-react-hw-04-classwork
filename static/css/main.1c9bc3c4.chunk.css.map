@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/styles.scss"],"names":[],"mappings":"AAAA,SACE,UAAA,CACA,cAAA,CAGF,iBACE,SAAA,CAGF,GACE,kBAAA","file":"main.1c9bc3c4.chunk.css","sourcesContent":[".NavLink {\r\n  color: black;\r\n  font-size: 20px;\r\n}\r\n\r\n.NavLink--active {\r\n  color: red;\r\n}\r\n\r\nli {\r\n  margin-bottom: 10px;\r\n}\r\n"]}
